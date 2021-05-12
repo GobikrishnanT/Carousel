@@ -3,8 +3,8 @@
 # FIRST VERY THANKS FOR SEEING MY PROJECT ----->
 
 # This is Carousel !!!!!!!!!
-# In this project i have used the logi that is my own idea and it working spr fine!!!
-# The logi that i was used in this is project is easy to understand by everyone , beginer too!
+# In this project i have used the logic that is my own idea and it working spr fine!!!
+# The logic that i was used in this is project is easy to understand by everyone , beginer too!
 # And i learned about the animation part and box showdow property more depth.
 
 # Animation that i have used coz when changing image animation will help us to attract the user!
